@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_usuario: 1
+  id_usuario2: 1
+  asunto: MyText
+  contenido: MyText
+  estatus: 1
+  fecha: 2017-03-22 02:32:15
+
+two:
+  id_usuario: 1
+  id_usuario2: 1
+  asunto: MyText
+  contenido: MyText
+  estatus: 1
+  fecha: 2017-03-22 02:32:15

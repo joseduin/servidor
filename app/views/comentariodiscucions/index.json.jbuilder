@@ -1,0 +1,1 @@
+json.array! @comentariodiscucions, partial: 'comentariodiscucions/comentariodiscucion', as: :comentariodiscucion

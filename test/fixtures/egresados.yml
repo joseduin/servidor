@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nacionalidad: MyString
+  cedula: 1
+  nombre: MyString
+  apellido: MyString
+  email: MyString
+  fecha_egreso: 2017-03-21 15:13:08
+  carrera: MyString
+  decanato: MyString
+
+two:
+  nacionalidad: MyString
+  cedula: 1
+  nombre: MyString
+  apellido: MyString
+  email: MyString
+  fecha_egreso: 2017-03-21 15:13:08
+  carrera: MyString
+  decanato: MyString

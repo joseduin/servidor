@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_creador: 1
+  id_interes: 1
+  id_imagen: 1
+  nombre: MyString
+  descripcion: MyText
+  estatus: 1
+
+two:
+  id_creador: 1
+  id_interes: 1
+  id_imagen: 1
+  nombre: MyString
+  descripcion: MyText
+  estatus: 1

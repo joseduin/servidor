@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  role_id: 
+  username: MyString
+  pass: MyString
+  email: MyString
+  estatus: 1
+  cedula: MyString
+  nacionalidad: MyString
+
+two:
+  role_id: 
+  username: MyString
+  pass: MyString
+  email: MyString
+  estatus: 1
+  cedula: MyString
+  nacionalidad: MyString
